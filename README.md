@@ -8,4 +8,4 @@ Personal collection of end-to-end **Data Engineering** Projects.
 
 </div>
 
-- 01: [Real-Time stock market analysis using Kafka](01-real-time-stock-market-analysis-kafka)
+- 01: [Real-Time stock market analysis using Kafka](projects/01-real-time-stock-market-analysis-kafka)
