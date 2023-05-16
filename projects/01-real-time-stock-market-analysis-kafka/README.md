@@ -6,6 +6,6 @@ This End-To-End Data Engineering project focused on analyzing real-time stock ma
 
 <div align="center">
 
-<img alt="My personal data engineering projects" src="../../assets/images/71671a41-4b75-4343-ad95-febba63cd0cc.png" width="500" />
+<img alt="My personal data engineering projects" src="../../assets/images/71671a41-4b75-4343-ad95-febba63cd0cc.png" width="650" />
 
 </div>
