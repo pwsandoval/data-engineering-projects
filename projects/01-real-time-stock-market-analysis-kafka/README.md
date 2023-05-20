@@ -53,3 +53,4 @@ bin/kafka-console-producer.sh --bootstrap-server 3.86.226.189:9092 --topic sampl
 # Start consumer
 bin/kafka-console-consumer.sh --bootstrap-server 3.86.226.189:9092 --topic sample_topic --from-beginning
 ```
+<!-- https://github.com/alanchn31/Data-Engineering-Projects -->
